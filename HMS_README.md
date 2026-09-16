@@ -1,10 +1,5 @@
 ﻿# 🏥 Hospital Management System -- Database Testing
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-Database%20Testing-2E8B57?style=for-the-badge)
-![SQL](https://img.shields.io/badge/Language-SQL-CC2927?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-
 ## 📌 Project Overview
 
 This project is a **MySQL-based Hospital Management System Database
