@@ -53,9 +53,9 @@ database relationships and business rules work correctly.
 
   🌐 Website Content Management       `website_pages`, `health_articles`,
                                       `faqs`
-
-  💬 Communication & Feedback         `contact_messages`, `feedback`,
+  💬 Communication & feedback       `contact_messages`, `feedback`,
                                       `notifications`
+                                      
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -63,7 +63,9 @@ database relationships and business rules work correctly.
 ## 🗂️ Entity Relationship Diagram
 
 The ER diagram shows the database tables and their relationships. The diagram is added in current repository.
+
 🗂️ ER_DiagramHMS.png
+
 ------------------------------------------------------------------------
 
 ## 🧪 Database Testing Areas
