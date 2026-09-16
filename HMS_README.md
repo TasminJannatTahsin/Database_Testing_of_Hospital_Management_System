@@ -340,7 +340,8 @@ WHERE (is_read = FALSE AND read_at IS NOT NULL)
   `read_at`                           
 
   Published article should have       Business-rule validation
-  `published_at`                      
+  `published_at`
+  
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
