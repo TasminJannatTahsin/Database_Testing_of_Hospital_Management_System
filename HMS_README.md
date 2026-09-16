@@ -446,7 +446,8 @@ This project demonstrates practical SQL skills and database testing
 techniques using a realistic hospital management environment.
 
 ------------------------------------------------------------------------
-## 👨‍ Author: Tasmin Jannat Tahsin
+
+## 👨‍💻 Author: Tasmin Jannat Tahsin
 
 ⭐ **If you find this project useful, feel free to star the
 repository.**
